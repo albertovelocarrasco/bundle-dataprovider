@@ -1,4 +1,4 @@
-package alberto.example.com.bundledataprovider.presentation.dataprovider;
+package alberto.example.com.bundledataprovider.presentation.bundle;
 
 /**
  * Created by Alberto Velo Carrasco on 17/05/15.

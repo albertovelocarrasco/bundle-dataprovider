@@ -1,6 +1,6 @@
 package alberto.example.com.bundledataprovider.presentation.presenter;
 
-import alberto.example.com.bundledataprovider.presentation.dataprovider.IDataBundle;
+import alberto.example.com.bundledataprovider.presentation.bundle.IDataBundle;
 
 /**
  * Created by Alberto Velo Carrasco on 17/05/15.

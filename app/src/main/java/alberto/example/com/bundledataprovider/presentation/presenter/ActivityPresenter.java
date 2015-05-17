@@ -1,6 +1,6 @@
 package alberto.example.com.bundledataprovider.presentation.presenter;
 
-import alberto.example.com.bundledataprovider.presentation.dataprovider.IDataBundle;
+import alberto.example.com.bundledataprovider.presentation.bundle.IDataBundle;
 import alberto.example.com.bundledataprovider.presentation.dataprovider.IDataProvider;
 
 /**

@@ -1,11 +1,13 @@
-package alberto.example.com.bundledataprovider.presentation.dataprovider;
+package alberto.example.com.bundledataprovider.presentation.bundle;
 
 import android.os.Bundle;
+
+import alberto.example.com.bundledataprovider.presentation.bundle.IDataBundle;
 
 /**
  * Created by Alberto Velo Carrasco on 17/05/15.
  */
-public class DataBundle implements IDataBundle{
+public class DataBundle implements IDataBundle {
 
     Bundle mBundle;
 
